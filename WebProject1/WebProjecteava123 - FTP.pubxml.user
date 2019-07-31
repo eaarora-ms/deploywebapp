@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAqRd8p5AgYE6kt+zODLFI3AAAAAACAAAAAAADZgAAwAAAABAAAAC36E+c05kYbvn9WSbiO8lWAAAAAASAAACgAAAAEAAAAA9u2qm1AZjAIN/A3J3pq1WAAAAAny9VHFidUrCRkrKgSIQe/TiCHg5pO1HAkPhnmC+eUY6ht175DcjjlPLhe53/pZGOr7Ud3JgoiQ9wsFLHnXtEmphKHAyPA4+/x6swmBIMVnmKef3XBa64kpoJ9rCpxjYB/aIoPGQTZlIXNcdo67f6ZJYZcbv7hArIMoLElu6UDo8UAAAA+N0kD1V3rmKngNK+LT5RPwMK+7k=</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-blu-133.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="module1.py">
+      <publishTime>07/31/2019 16:17:33</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
